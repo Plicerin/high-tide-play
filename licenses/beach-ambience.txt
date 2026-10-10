@@ -1,0 +1,11 @@
+HIGH TIDE beach ambience
+Original: Summer Beach Ambience, cartoon_music via Pixabay
+User supplied: cartoon_music-summer-beach-ambience-550264.mp3
+License: Pixabay Content License (as supplied by the user)
+License summary: https://pixabay.com/service/license-summary/
+Full terms: https://pixabay.com/service/terms/
+Added: 2026-10-10
+Game asset: summer-beach-ambience.mp3
+Processing: original stereo recording; three-second equal-power loop crossfade at runtime, playback fade-in and mix gain.
+Used as background ambience within HIGH TIDE. Not offered as a standalone sound download.
+Attribution is voluntary under the license and retained here for provenance.

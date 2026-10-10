@@ -1,0 +1,12 @@
+HIGH TIDE dispatch whistle
+Original: Whistle, by Donnyatta (Freesound) / freesound_community via Pixabay
+Source: https://pixabay.com/sound-effects/nature-whistle-84607/
+License: Pixabay Content License
+License summary: https://pixabay.com/service/license-summary/
+Full terms: https://pixabay.com/service/terms/
+Reviewed: 2026-10-10 (terms dated November 18, 2024)
+User supplied: freesound_community-whistle-84607.mp3
+Game asset: lifeguard-whistle.wav
+Processing: excerpt 0.265-0.915 seconds; 5ms fade-in and 50ms fade-out; mono 44.1kHz PCM.
+Used as a dispatch sound within HIGH TIDE. Not offered as a standalone sound download.
+Attribution is voluntary under the license and retained here for provenance.

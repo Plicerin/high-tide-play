@@ -1,0 +1,11 @@
+HIGH TIDE seagull calls
+Original: Seagull Sound Effect, u_up4clmd95a via Pixabay
+User supplied: u_up4clmd95a-seagull-sound-effect-272695.mp3
+License: Pixabay Content License (same source collection as the user's supplied beach and whistle sounds)
+License summary: https://pixabay.com/service/license-summary/
+Full terms: https://pixabay.com/service/terms/
+Added: 2026-10-10
+Game asset: seagull-calls.mp3
+Processing: original recording bundled; mono downmix, varied short excerpts, fades, gain and stereo positioning at runtime.
+Used within HIGH TIDE. Not offered as a standalone sound download.
+Attribution retained for provenance.

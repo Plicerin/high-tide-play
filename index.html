@@ -1,0 +1,10 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>HIGH TIDE · Beach Patrol</title><meta name="description" content="Watch the beach, spot swimmers in trouble, and dispatch your lifeguards in HIGH TIDE.">
+<script>
+const params=new URLSearchParams(location.search);
+const pixel=params.has('pixel');params.delete('pixel');
+if(!pixel&&!params.has('surf'))params.set('surf','rough');
+const target=new URL(pixel?'./pixel.html':'./water-study.html',location.href);
+target.search=params.toString();target.hash=location.hash;location.replace(target.href);
+</script></head><body><a href="./water-study.html?surf=rough">Play HIGH TIDE</a></body></html>
